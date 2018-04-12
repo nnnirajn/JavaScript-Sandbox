@@ -667,7 +667,7 @@ shoppingList.forEach(function(element){
            <!-- <button ondblclick="xyz()">click me</button> -->
            <script>
                function xyz(){
-                      document.getElementById("para").innerText = Clicked!!!";  
+                      document.getElementById("para").innerText = Clicked;  
            </script>
    </body>
    </html>
